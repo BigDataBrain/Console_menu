@@ -8,4 +8,10 @@ This code imports the consolemenu module and its items from the consolemenu.item
 !!! Menu !!! Easy Implemnetation 🤯🚀
 
 
-https://github.com/pybot2021/Console_menu/blob/main/console_menu.py.png?raw=true
+![image](https://user-images.githubusercontent.com/102384403/232021376-9e0cae66-d4fe-49a2-a986-d4e534fa9d0e.png)
+
+
+🔥 Output:
+
+![image](https://user-images.githubusercontent.com/102384403/232021505-190b3169-9549-4404-910b-77f3ab656c44.png)
+
